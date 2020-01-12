@@ -8,3 +8,4 @@
 6. [58. Length of Last Word](https://hackmd.io/sGfVFpRKRiqZ7SrhjncKIQ?view)
 7. [70. Climbing Stairs](https://hackmd.io/OqEJiweDQOOIzuTlEMrKYg?view)
 8. [69. Sqrt(x)](https://hackmd.io/A_tG70spSzeXmPYAJXvcGg?view)
+9. [28. Implement strStr()](https://hackmd.io/rh1MY74YQV-oS2RDYr3DkQ?view)

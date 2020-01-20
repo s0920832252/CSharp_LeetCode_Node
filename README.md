@@ -18,3 +18,4 @@
 16. [125. Valid Palindrome](https://hackmd.io/IRBr7CJER-6e-axAZaLdOg?view)
 17. [657. Robot Return to Origin](https://hackmd.io/lNkrJhfNSSmVqi1-7L_0KA?view)
 18. [680. Valid Palindrome II](https://hackmd.io/7rIDSjevTQCvLOEElKscFw?view)
+19. [443. String Compression](https://hackmd.io/3XpzMXSlRZSarrKxANf7Yg?view)

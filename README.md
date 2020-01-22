@@ -20,3 +20,4 @@
 18. [680. Valid Palindrome II](https://hackmd.io/7rIDSjevTQCvLOEElKscFw?view)
 19. [443. String Compression](https://hackmd.io/3XpzMXSlRZSarrKxANf7Yg?view)
 20. [459. Repeated Substring Pattern](https://hackmd.io/Yg-bWZN5Qv-UNCCDsalA7A?view)
+21. [14. Longest Common Prefix](https://hackmd.io/pUzW6QZoSvWM-h3KSZYPVQ?view)

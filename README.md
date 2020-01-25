@@ -22,3 +22,4 @@
 20. [459. Repeated Substring Pattern](https://hackmd.io/Yg-bWZN5Qv-UNCCDsalA7A?view)
 21. [14. Longest Common Prefix](https://hackmd.io/pUzW6QZoSvWM-h3KSZYPVQ?view)
 22. [2. Add Two Numbers (Medium)](https://hackmd.io/lTqT_-FRSUy2oOdXcKiSbw?view)
+23. [3. Longest Substring Without Repeating Characters (Medium)](https://hackmd.io/5BDkMdhDSgqQlwUDWSoRbw?view)

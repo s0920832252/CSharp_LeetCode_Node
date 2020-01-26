@@ -25,3 +25,4 @@
 21. [14. Longest Common Prefix](https://hackmd.io/pUzW6QZoSvWM-h3KSZYPVQ?view)
 22. [2. Add Two Numbers (Medium)](https://hackmd.io/lTqT_-FRSUy2oOdXcKiSbw?view)
 23. [3. Longest Substring Without Repeating Characters (Medium)](https://hackmd.io/5BDkMdhDSgqQlwUDWSoRbw?view)
+24. [9. Palindrome Number](https://hackmd.io/e9m2dg11R8Co8k-2EnxCaA?view)

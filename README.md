@@ -28,3 +28,4 @@
 24. [9. Palindrome Number](https://hackmd.io/e9m2dg11R8Co8k-2EnxCaA?view)
 25. [1154. Day of the Year](https://hackmd.io/JbAHEXk3T92xTXEiqLsA2g?view)
 26. [371. Sum of Two Integers](https://hackmd.io/0nvmxQGMQFSH5fpjIfv2DQ?view)
+27. [746. Min Cost Climbing Stairs](https://hackmd.io/iv2UMjH-RKuRK0YeSoaNpQ?view)

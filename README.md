@@ -29,3 +29,4 @@
 25. [1154. Day of the Year](https://hackmd.io/JbAHEXk3T92xTXEiqLsA2g?view)
 26. [371. Sum of Two Integers](https://hackmd.io/0nvmxQGMQFSH5fpjIfv2DQ?view)
 27. [746. Min Cost Climbing Stairs](https://hackmd.io/iv2UMjH-RKuRK0YeSoaNpQ?view)
+28. [66. Plus One](https://hackmd.io/PVK63TBjS-eCrHH5A0GnGQ?view)

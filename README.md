@@ -33,3 +33,5 @@
 29. [278. First Bad Version](https://hackmd.io/2bWROuxjQS2NzfFdPBxklg?view)
 30. [367. Valid Perfect Square](https://hackmd.io/NwofQxINT3SNpmW8WmqQPA?view)
 31. [167. Two Sum II - Input array is sorted](https://hackmd.io/KrJVLbiLRNOOYx4yk3whuA?view)
+32. [378. Kth Smallest Element in a Sorted Matrix(Medium)]()
+33. [230. Kth Smallest Element in a BST(Medium)]()

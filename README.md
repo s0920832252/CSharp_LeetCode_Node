@@ -30,3 +30,4 @@
 26. [371. Sum of Two Integers](https://hackmd.io/0nvmxQGMQFSH5fpjIfv2DQ?view)
 27. [746. Min Cost Climbing Stairs](https://hackmd.io/iv2UMjH-RKuRK0YeSoaNpQ?view)
 28. [66. Plus One](https://hackmd.io/PVK63TBjS-eCrHH5A0GnGQ?view)
+29. [278. First Bad Version](https://hackmd.io/2bWROuxjQS2NzfFdPBxklg?view)

@@ -31,3 +31,4 @@
 27. [746. Min Cost Climbing Stairs](https://hackmd.io/iv2UMjH-RKuRK0YeSoaNpQ?view)
 28. [66. Plus One](https://hackmd.io/PVK63TBjS-eCrHH5A0GnGQ?view)
 29. [278. First Bad Version](https://hackmd.io/2bWROuxjQS2NzfFdPBxklg?view)
+30. [367. Valid Perfect Square](https://hackmd.io/NwofQxINT3SNpmW8WmqQPA?view)

@@ -32,3 +32,4 @@
 28. [66. Plus One](https://hackmd.io/PVK63TBjS-eCrHH5A0GnGQ?view)
 29. [278. First Bad Version](https://hackmd.io/2bWROuxjQS2NzfFdPBxklg?view)
 30. [367. Valid Perfect Square](https://hackmd.io/NwofQxINT3SNpmW8WmqQPA?view)
+31. [167. Two Sum II - Input array is sorted](https://hackmd.io/KrJVLbiLRNOOYx4yk3whuA?view)

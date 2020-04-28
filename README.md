@@ -49,3 +49,8 @@
 205. [Easy] Isomorphic Strings  
 242. [Easy] Valid Anagram  
 290.  [Easy] Word Pattern   
+94.   [Medium] Binary Tree Inorder Traversal
+144. [Medium] Binary Tree Preorder Traversal
+101. [Easy] Symmetric Tree
+104  [Easy] Maximum Depth of Binary Tree
+112  [Easy] Path Sum

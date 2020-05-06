@@ -54,3 +54,7 @@
 101. [Easy] Symmetric Tree
 104  [Easy] Maximum Depth of Binary Tree
 112  [Easy] Path Sum
+[Medium]17. Letter Combinations of a Phone Number
+[Easy]53. Maximum Subarray
+[Easy]66. Plus One
+[Medium]78. Subsets

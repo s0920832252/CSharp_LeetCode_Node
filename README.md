@@ -39,6 +39,10 @@
 35. [141. Linked List Cycle](https://hackmd.io/dlbaS4VRSxa4oYPCBeLBHg?view)
 36. [234. Palindrome Linked List](https://hackmd.io/ZAANbG-_TKOabDVJqauH2g?view)
 
+
+[Shard]
+[如何高效運用LeetCode](https://www.youtube.com/watch?v=ucTL2ZdcyOs)
+
 34 [Medium] Find First and Last Position of Element in Sorted Array    
 35 [Easy] Search Insert Position 
 374 [Easy] Guess Number Higher or Lower    
